@@ -1,0 +1,202 @@
+body{
+    font-family: 'Roboto', sans-serif; 
+    font-size: 14px;
+    width: 100%;
+    min-height: 100%;
+    margin: 0%;
+}
+header{
+    width: 100%;
+    top: 40px;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    position: relative;
+    top: auto; left: auto; bottom: auto;
+    display: flex;
+    list-style-type: none;
+    flex-direction:column; 
+    text-align: center;
+    
+}
+header h1 {
+    margin: 0;
+}
+.Accueil .Science .Tech{
+    justify-content: space-between;
+}
+.ul2{
+    bottom: 12px;
+}
+
+ul{
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+    position: relative;
+}
+.point a{
+    margin: 10px;
+}
+.section-article-1{
+    width: 70%;
+    /* border: 1px blue solid; */
+}
+.section-article-1 h3{
+    text-align: end;
+}
+.section-article-1 h3:hover{
+    text-decoration: underline;
+}
+/*text article*/
+.Article{
+    margin-left: 10px;
+    text-align: justify;
+}
+
+/*titre article*/
+
+.Article h1{
+    text-transform: uppercase;
+}
+.Article2{
+    text-align: justify;
+    text-decoration: underline;
+}
+.Article2 ul{
+position: relative;
+bottom: -116px;
+background: #3a3a3a;
+
+}
+.Article2 a{
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    border-spacing: 20px;
+}
+.Article2 .DD:hover{
+    margin: 10px;
+    }
+.img{
+    width: 30%;
+}
+.section2 {
+    width: 100%;
+    /* text-align:end; */
+    /* margin: 10px; */
+    margin-top: 152px;
+    background: #3a3a3a;
+    display: flex;
+    flex-direction: column; 
+    text-align: center;
+    flex-wrap: wrap;
+    height: 150px;
+}
+.section2 div {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.section2 h2{
+    margin: 0px;
+    position: relative;
+    right: 0px; bottom: -2px;
+
+}
+
+
+.flex-container {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    padding: 10px;
+    margin: 0;
+    list-style: none;
+    align-items: center;
+  }
+  
+  .flex-item {
+    padding: 5px;
+    width: 200px;
+    /* height: 150px;
+    margin-top: 10px;
+    line-height: 150px; */
+    color: white;
+    font-weight: bold;
+    font-size: 3em;
+    text-align: center;
+  }
+
+  .flex-article {
+    display: flex;
+     flex-flow: row wrap;
+    justify-content: space-around;
+    padding: 0;
+    margin: auto;
+    list-style: none;
+    background-color: gray;
+    width: auto;
+    height: auto;
+  }
+  
+  .flex-itembis {
+    padding: 5px;
+    width: 200px;
+    height: 150px;
+    margin-top: 10px;
+    line-height: 150px;
+    color: rgb(0, 0, 0);
+    font-weight: bold;170
+  {
+      position: relative;
+      width: auto;
+      height: auto;
+  }
+
+#paragraphe
+{
+    position: relative;
+    margin: 1vh 2vh auto;
+    margin-left: 2vh;
+}
+
+.Articleh
+{
+  position: relative;
+  margin: 2vh 2vh auto;
+}
+
+.flex-itemtre {
+  background: #3a3a3a;
+  margin-top: 10px;
+  color: white;
+  font-weight: bold;
+}
+main{
+    display: flex;
+    /* border: 1px red solid; */
+}
+a:link{
+
+text-decoration: none;
+color: black;
+
+}
+.info{
+    margin: 10px;
+}
+
+
+/* snake */
+body {
+    text-align:center;
+    font-family: helvetica;
+  }
+  canvas {
+    border: 2px solid rgb(151, 149, 149);
+  }
+
+  
+ 
